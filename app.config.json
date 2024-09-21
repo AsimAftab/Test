@@ -1,10 +1,10 @@
 {
   apps : [
     {
-      name      : "your-app",
+      name      : "lamadmin",
       script    : "npx",
       interpreter: "none",
-      args: "serve -p 8443 -T"
+      args: "serve -p 80 -T"
     }
   ]
 }
